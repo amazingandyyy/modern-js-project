@@ -45,11 +45,11 @@ npm run style
 
 ## Enviroment
 
-[x] use [babel](https://babeljs.io/setup)
-[x] use [jest](https://jestjs.io/docs/en/getting-started)
-[x] use [eslint](https://eslint.org/docs/user-guide/getting-started)
-[x] use [circleci](https://circleci.com/)
-[x] use [travisci](https://travis-ci.com/)
+- [x] use [babel](https://babeljs.io/setup)
+- [x] use [jest](https://jestjs.io/docs/en/getting-started)
+- [x] use [eslint](https://eslint.org/docs/user-guide/getting-started)
+- [x] use [circleci](https://circleci.com/)
+- [x] use [travisci](https://travis-ci.com/)
 
 ## License
 
