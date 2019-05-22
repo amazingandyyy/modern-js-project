@@ -2,7 +2,7 @@
 🏵️ Modern JS Project Starter
 </h1>
 <p align="center">
-es6, babel, jest, eslint, travis, circleci
+es6, babel, jest, eslint, travisci, circleci
 </p>
 
 <p align="center">
