@@ -49,4 +49,4 @@ npm run style
 
 ## License
 
-MIT
+[MIT](https://raw.githubusercontent.com/amazingandyyy/modern-js-project/master/license)
