@@ -20,7 +20,7 @@ es6, babel, jest, eslint, travis, circleci
 ## Download
 
 ```terminal
-git clone
+git clone git@github.com:amazingandyyy/modern-js-project.git
 rm -rf .git
 npm i
 ```
