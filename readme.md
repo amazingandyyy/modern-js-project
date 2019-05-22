@@ -19,7 +19,7 @@ es6, babel, jest, eslint, travis, circleci
 
 ## Why
 
-I have been working many npm packages and js projects and need to setup the environment again and again, so I decide to publish a minimun project structure for modern js language. Configuration will upgrade over time.
+I have been working on many npm packages and js projects on a daily basis, attempt to setup the environment again and again and again... so I think why not publish a minimun project structure for modern js development. Configuration can be improved and upgraded over time.
 
 ## Download
 
