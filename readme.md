@@ -17,6 +17,10 @@ es6, babel, jest, eslint, travis, circleci
    </a>
 </p>
 
+## Why
+
+I have been working many npm packages and js projects and need to setup the environment again and again, so I decide to publish a minimun project structure for modern js language. Configuration will upgrade over time.
+
 ## Download
 
 ```terminal
@@ -50,3 +54,8 @@ npm run style
 ## License
 
 [MIT](https://raw.githubusercontent.com/amazingandyyy/modern-js-project/master/license)
+
+## Suggestions/Bugs
+
+- [PR](https://github.com/amazingandyyy/modern-js-project/pulls) is highly welcome
+- feel free to open [issues](https://github.com/amazingandyyy/modern-js-project/issues) as many as possible, it doesn't need to be in details, just general idea is good enough.
